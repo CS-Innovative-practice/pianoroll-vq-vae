@@ -12,6 +12,5 @@ run the train.py to see the training result
 
 TODO:
 
-modify the dataset to let it get object at getitem() but not at initialization
-
-add tools to visualise the results
+- [ ] modify the dataset to let it get object at getitem() but not at initialization
+- [ ] add tools to visualise the results
